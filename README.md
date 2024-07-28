@@ -22,7 +22,13 @@
   <img src="https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/abdulrahim-Ramadan.gif" width="600" height="450"/>
 </div>
 
-Hello, I’m Abdulrahim Ramadan, a seasoned Python developer dedicated to crafting refined web applications with seamless functionalities. My expertise lies in transforming innovative concepts into pragmatic solutions through creative problem-solving. I am committed to continuous learning, keeping pace with evolving skills, tools, and industry trends. Currently, I am focused on advancing my proficiency in web development.
+Web development has been always my passion. I still remember coding my first line of code and making it print “ Hello World! ”. It was almost magic, being able to get the computer to do whatever I wanted
+
+Hi, I'm El-Sayed Mohammed, a Back-End Developer with a passion for problem-solving and clean code. My primary expertise lies in C# and the ASP.NET Core framework, as well as Object Oriented Programming, Microsoft SQL Server , LINQ, EF Core, ASP.NET MVC, ASP.NET APIs, GitHub, Docker, Data Structure, Test-Driven Development, SOLID principles, Design patterns, and Agile Development And Azure DevOps
+
+I also have some skills in front-end technologies such as HTML, CSS, Bootstrap Framework, Java Script
+
+If you're looking for a skilled Back-End Developer who is passionate about problem-solving and delivering clean, effective solutions, I would love to connect with you
 
 <img width='35%' src='https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/line.gif' alt="Line Image"><span style='font-size: 50px; width: 20%;'>__Contact Me__</span><img width='35%' src='https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/line.gif' alt="Line Image">
 
